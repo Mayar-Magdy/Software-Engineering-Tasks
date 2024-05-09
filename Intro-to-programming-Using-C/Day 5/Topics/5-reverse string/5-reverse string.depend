@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702375731 source:d:\iti\1-iti staff\c\day5\demos bensuif c day 5\5-reverse string\main.c
+	<stdio.h>
+	<string.h>
+
+1702375731 source:d:\c_iti\demos bensuif c day 5\5-reverse string\main.c
+	<stdio.h>
+	<string.h>
+
