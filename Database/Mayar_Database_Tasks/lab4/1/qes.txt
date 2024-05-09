@@ -1,0 +1,4 @@
+a.	Why did we choose Nvarchar Data type not Nchar or varchar?
+b.      Why did we choose Nchar data type not Nvarchar?
+c.      Can we make the data type for that column as char(2)?
+
