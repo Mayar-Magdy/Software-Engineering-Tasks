@@ -1,0 +1,102 @@
+https://elzero.org/php-2022-string-operators/
+https://elzero.org/php-2022-operator-precedence/
+https://elzero.org/php-2022-if-elseif-else-advanced-practice/
+
+
+ - If, Elseif, Else <= Alternate Syntax {
+<?php if (10 > 5) : ?>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    Hello Page
+  </body>
+</html>
+
+<?php endif; ?>
+
+<?php
+
+  if (10 > 10) :
+
+    echo "First";
+
+  elseif (10 > 10) :
+
+    echo "Second";
+
+  else:
+
+    echo "Last";
+
+  endif;
+
+?>
+}
+https://elzero.org/php-2022-function-variable-arguments-list/
+{
+function calculate(...$nums) {
+    // echo "Number Of Arguments: " . func_num_args() . "<br>";
+    // echo "Argument Index Number 3 Is " . func_get_arg(3) . "<br>";
+    // print_r(func_get_args());
+    // $result = 0;
+    // foreach (func_get_args() as $arg) :
+    //   $result += $arg;
+    // endforeach;
+    // echo $result;
+    echo "Argument Index Number 3 Is " . $nums[3] . "<br>";
+    print_r($nums);
+    $result = 0;
+    foreach ($nums as $num) :
+      $result += $num;
+    endforeach;
+    echo $result;
+  }
+
+  calculate(10, 20, 50, 30, 40, 50, 100);
+}
+https://elzero.org/php-2022-function-training-and-unpacking-arguments/{
+<?php
+
+  /*
+    Function
+    - Function Advanced Training
+    -- Unpacking In Arguments
+
+    Search
+    - PHP Variadic Functions
+    - Splat Operator
+  */
+
+  $group_of_skills = ["HTML", "CSS", "JS", "PHP"];
+
+  function get_data($name, $country = "Private", ...$skills) {
+    echo "Hello $name Your Country Is $country <br>";
+    foreach ($skills as $skill) :
+      echo "-- $skill <br>";
+    endforeach;
+  }
+
+  // get_data("Osama", "Egypt", ...$group_of_skills);
+  get_data("Osama", "Egypt", ...["HTML", "CSS", "JS", "PHP"]);
+}
+  function testing() {
+    return "Testing From Function";
+  }
+
+  if (function_exists("testing")) {
+    echo testing();
+  } else {
+    echo "Function Not Found";
+  }
+
+https://elzero.org/php-2022-anonymous-function/{
+   $say_hi = function($someone) use ($msg) {
+      return "$msg $someone";
+    };}

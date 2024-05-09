@@ -1,0 +1,33 @@
+1- how to connect to database  
+            mysqli_connect 
+            new mysqli --> oop
+            new PDO  
+
+2-    CRUD 
+
+    C  --> CREATE 
+                    html --> form --> DONE front-end
+                    php  --> 1- connect database --> DONE 
+                             2- query: insert into students (name, email, age) values ("", "", "") --> DONE 
+
+
+    R --> READ
+                    html --> table --> DONE   
+                    php  -->  1- connect database --> DONE  
+                              2- query --> select * from students  --> DONE 
+
+    U --> Update: 
+
+                    html --> button and form --> DONE 
+
+                    php  --> 1- connect database --> DONE
+                            2- query:
+                                1- select * from students where id = ""  --> DONE 
+                                2- update students set name="" where id = 
+ 
+
+    D --> DELETE  --> 
+                    html --> button --> DONE  
+                    php  -->  1- connect database --> DONE 
+                              2- query: delete from students where id --> DONE  
+
