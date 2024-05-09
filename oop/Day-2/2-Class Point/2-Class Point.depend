@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1703500005 source:d:\iti\1-iti staff\c++ oop new\my content\day2\demo benisuif day 2\2-class point\main.cpp
+	<iostream>
+	"point.h"
+	"Student.h"
+
+1703499488 source:d:\iti\1-iti staff\c++ oop new\my content\day2\demo benisuif day 2\2-class point\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1703497924 d:\iti\1-iti staff\c++ oop new\my content\day2\demo benisuif day 2\2-class point\include\point.h
+
+1703500048 source:d:\iti\1-iti staff\c++ oop new\my content\day2\demo benisuif day 2\2-class point\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1703499833 d:\iti\1-iti staff\c++ oop new\my content\day2\demo benisuif day 2\2-class point\include\student.h
+

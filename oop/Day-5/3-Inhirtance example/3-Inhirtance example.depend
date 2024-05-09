@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1703761348 source:d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\3-inhirtance example\main.cpp
+	<iostream>
+	"Base.h"
+	"Dervied.h"
+
+1703760983 d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\3-inhirtance example\include\base.h
+
+1703761722 source:d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\3-inhirtance example\src\dervied.cpp
+	"Dervied.h"
+	<iostream>
+
+1703761053 d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\3-inhirtance example\include\dervied.h
+	"Base.h"
+
+1703761350 source:d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\3-inhirtance example\src\base.cpp
+	"Base.h"
+	<iostream>
+

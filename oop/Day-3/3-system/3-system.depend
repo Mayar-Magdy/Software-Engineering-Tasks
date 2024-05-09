@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703584802 source:d:\iti\1-iti staff\c++ oop new\my content\day3\demos bensuif day 3\3-system\src\doctor.cpp
+	"Doctor.h"
+
+1703584772 d:\iti\1-iti staff\c++ oop new\my content\day3\demos bensuif day 3\3-system\include\doctor.h
+	<iostream>
+
+1703584788 source:d:\iti\1-iti staff\c++ oop new\my content\day3\demos bensuif day 3\3-system\main.cpp
+	<iostream>
+	"Doctor.h"
+

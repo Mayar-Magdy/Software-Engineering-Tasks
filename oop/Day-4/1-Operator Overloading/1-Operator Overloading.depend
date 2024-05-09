@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1703675313 source:d:\iti\1-iti staff\c++ oop new\my content\day4\demos benisuif day 4\1-operator overloading\main.cpp
+	<iostream>
+	"Complex.h"
+	"Point.h"
+
+1703673260 source:d:\iti\1-iti staff\c++ oop new\my content\day4\demos benisuif day 4\1-operator overloading\src\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1703673123 d:\iti\1-iti staff\c++ oop new\my content\day4\demos benisuif day 4\1-operator overloading\include\complex.h
+
+1703675222 source:d:\iti\1-iti staff\c++ oop new\my content\day4\demos benisuif day 4\1-operator overloading\src\point.cpp
+	"Point.h"
+	<iostream>
+
+1703675187 d:\iti\1-iti staff\c++ oop new\my content\day4\demos benisuif day 4\1-operator overloading\include\point.h
+

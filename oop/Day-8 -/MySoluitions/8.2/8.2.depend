@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1704318767 source:c:\users\zas\desktop\oop tasks\8.2\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704318767 c:\users\zas\desktop\oop tasks\8.2\include\point.h
+	"Shape.h"
+
+1704318767 c:\users\zas\desktop\oop tasks\8.2\include\shape.h
+
+1704318767 c:\users\zas\desktop\oop tasks\8.2\include\line.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704318767 c:\users\zas\desktop\oop tasks\8.2\include\circle.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704318767 c:\users\zas\desktop\oop tasks\8.2\include\rect.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704318767 c:\users\zas\desktop\oop tasks\8.2\include\picture.h
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1704316962 source:c:\users\zas\desktop\oop tasks\8.2\src\circle.cpp
+	"Circle.h"
+
+1704316963 source:c:\users\zas\desktop\oop tasks\8.2\src\line.cpp
+	"Line.h"
+
+1704316962 source:c:\users\zas\desktop\day7&8\8.2\src\circle.cpp
+	"Circle.h"
+
+1704318767 c:\users\zas\desktop\day7&8\8.2\include\circle.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704318767 c:\users\zas\desktop\day7&8\8.2\include\point.h
+	"Shape.h"
+
+1704318767 c:\users\zas\desktop\day7&8\8.2\include\shape.h
+
+1704316963 source:c:\users\zas\desktop\day7&8\8.2\src\line.cpp
+	"Line.h"
+
+1704318767 c:\users\zas\desktop\day7&8\8.2\include\line.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704318779 source:c:\users\zas\desktop\day7&8\8.2\src\picture.cpp
+	"Picture.h"
+
+1704318767 c:\users\zas\desktop\day7&8\8.2\include\picture.h
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1704318767 c:\users\zas\desktop\day7&8\8.2\include\rect.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704316504 source:c:\users\zas\desktop\day7&8\8.2\src\point.cpp
+	"Point.h"
+	<graphics.h>
+
+1704317127 source:c:\users\zas\desktop\day7&8\8.2\src\rect.cpp
+	"Rect.h"
+
+1704313257 source:c:\users\zas\desktop\day7&8\8.2\src\shape.cpp
+	"Shape.h"
+

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1704100426 source:d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+
+1704099092 source:d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\src\point.cpp
+	"Point.h"
+
+1704098996 d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\include\point.h
+
+1704100003 source:d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\src\line.cpp
+	"Line.h"
+
+1704100076 d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\include\line.h
+	"Point.h"
+	<graphics.h>
+
+1704100878 source:d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\src\circle.cpp
+	"Circle.h"
+
+1704100927 d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\2-composition\include\circle.h
+	"Point.h"
+	<graphics.h>
+
+1704101437 source:d:\oop_iti\new folder\demos benisuif day 7\2-composition\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rectangle.h"
+
+1704100878 source:d:\oop_iti\new folder\demos benisuif day 7\2-composition\src\circle.cpp
+	"Circle.h"
+
+1704100003 source:d:\oop_iti\new folder\demos benisuif day 7\2-composition\src\line.cpp
+	"Line.h"
+
+1704099092 source:d:\oop_iti\new folder\demos benisuif day 7\2-composition\src\point.cpp
+	"Point.h"
+
+1704101430 source:d:\oop_iti\new folder\demos benisuif day 7\2-composition\src\rectangle.cpp
+	"Rectangle.h"
+

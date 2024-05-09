@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1704009765 source:d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\main.cpp
+	<iostream>
+	"GeoShape.h"
+	"Rectangle.h"
+	"square.h"
+
+1704008345 source:d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\src\geoshape.cpp
+	"GeoShape.h"
+	<iostream>
+
+1704007900 d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\include\geoshape.h
+
+1704008811 source:d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1704008549 d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\include\rectangle.h
+	"GeoShape.h"
+
+1704009737 source:d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\src\square.cpp
+	"square.h"
+	<iostream>
+
+1704010245 d:\iti\1-iti staff\c++ oop new\my content\day6\demo benisuif day 6\1-geoshape\include\square.h
+	"GeoShape.h"
+

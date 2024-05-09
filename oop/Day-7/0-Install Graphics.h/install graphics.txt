@@ -1,0 +1,19 @@
+1-Install TDM GCC : https://jmeubank.github.io/tdm-gcc/
+choose => MinGW.org based
+
+2-WinBGIm Folder (grphics.h and winbgim.h => installation folder(tdm)/include)
+                  libbgi.a  => installation folder(tdm)/lib
+
+3-Code Blocks  => Setting - Compiler - Toolchain excuatables => Change path to TDM Folder
+                                       Linker settings : other linker options :  
+
+-lbgi
+-lgdi32
+-lcomdlg32
+-luuid
+-loleaut32
+-lole32
+
+4-virus and protection and allow tdm 
+
+

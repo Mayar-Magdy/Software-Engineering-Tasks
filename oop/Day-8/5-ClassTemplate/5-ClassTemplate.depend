@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1704191559 source:d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\main.cpp
+	<iostream>
+	"MayarClass.h"
+	"MayarClass.cpp"
+	"FinalHeader.h"
+
+1704189992 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\include\testclasstemplate.h
+	<iostream>
+
+1704190505 source:d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\src\testclasstemplate.cpp
+
+1704190496 source:d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\src\mayarclass.cpp
+	"MayarClass.h"
+	<iostream>
+
+1704190424 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\include\mayarclass.h
+
+1704190496 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\mayarclass.cpp
+	"MayarClass.h"
+	<iostream>
+
+1704191189 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\include\headerclassonly.h
+	<iostream>
+
+1704191213 source:d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\src\headerclassonly.cpp
+
+1704191517 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\5-classtemplate\include\finalheader.h
+	<iostream>
+

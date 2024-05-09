@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1704317026 source:c:\users\zas\desktop\oop tasks\8.1\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704316504 c:\users\zas\desktop\oop tasks\8.1\include\point.h
+	"Shape.h"
+
+1704315840 c:\users\zas\desktop\oop tasks\8.1\include\shape.h
+
+1704316962 c:\users\zas\desktop\oop tasks\8.1\include\line.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704316972 c:\users\zas\desktop\oop tasks\8.1\include\circle.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704316963 c:\users\zas\desktop\oop tasks\8.1\include\rect.h
+	"Point.h"
+	<graphics.h>
+	"Shape.h"
+
+1704308952 c:\users\zas\desktop\oop tasks\8.1\include\picture.h
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1704316962 source:c:\users\zas\desktop\oop tasks\8.1\src\circle.cpp
+	"Circle.h"
+
+1704316963 source:c:\users\zas\desktop\oop tasks\8.1\src\line.cpp
+	"Line.h"
+
+1704308930 source:c:\users\zas\desktop\oop tasks\8.1\src\picture.cpp
+	"Picture.h"
+
+1704316504 source:c:\users\zas\desktop\oop tasks\8.1\src\point.cpp
+	"Point.h"
+	<graphics.h>
+
+1704317127 source:c:\users\zas\desktop\oop tasks\8.1\src\rect.cpp
+	"Rect.h"
+

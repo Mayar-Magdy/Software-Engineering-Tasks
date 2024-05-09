@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704193930 source:d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\8-writefile\main.cpp
+	<iostream>
+	<fstream>
+

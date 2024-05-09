@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1704398676 source:d:\pst coach\bonus -8.1\src\stack.cpp
+	"Stack.h"
+
+1704398676 d:\pst coach\bonus -8.1\include\stack.h
+	<bits/stdc++.h>
+
+1704398647 source:d:\pst coach\bonus -8.1\main.cpp
+	<bits/stdc++.h>
+	"Stack.h"
+	"./src/Stack.cpp"
+
+1704398676 d:\pst coach\bonus -8.1\src\stack.cpp
+	"Stack.h"
+
+1704398719 source:c:\users\zas\desktop\bouns\bonus -8.1\src\stack.cpp
+	"Stack.h"
+
+1704398676 c:\users\zas\desktop\bouns\bonus -8.1\include\stack.h
+	<bits/stdc++.h>
+

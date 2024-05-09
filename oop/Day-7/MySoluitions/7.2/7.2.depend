@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1704309889 source:d:\pst coach\7.2\7.2\src\circle.cpp
+	"Circle.h"
+
+1704292896 d:\pst coach\7.2\7.2\include\circle.h
+	"Point.h"
+	<graphics.h>
+
+1704292896 d:\pst coach\7.2\7.2\include\point.h
+
+1704308930 source:d:\pst coach\7.2\7.2\src\picture.cpp
+	"Picture.h"
+
+1704292896 source:d:\pst coach\7.2\7.2\src\point.cpp
+	"Point.h"
+	<graphics.h>
+
+1704292896 source:d:\pst coach\7.2\7.2\src\rect.cpp
+	"Rect.h"
+
+1704292896 d:\pst coach\7.2\7.2\include\rect.h
+	"Point.h"
+	<graphics.h>
+
+1704310390 source:d:\pst coach\7.2\7.2\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704292896 d:\pst coach\7.2\7.2\include\line.h
+	"Point.h"
+	<graphics.h>
+
+1704308952 d:\pst coach\7.2\7.2\include\picture.h
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1704309231 source:d:\pst coach\7.2\7.2\src\line.cpp
+	"Line.h"
+
+1704310390 source:c:\users\zas\desktop\day 7&8\7.2\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704292896 c:\users\zas\desktop\day 7&8\7.2\include\point.h
+
+1704292896 c:\users\zas\desktop\day 7&8\7.2\include\line.h
+	"Point.h"
+	<graphics.h>
+
+1704292896 c:\users\zas\desktop\day 7&8\7.2\include\circle.h
+	"Point.h"
+	<graphics.h>
+
+1704292896 c:\users\zas\desktop\day 7&8\7.2\include\rect.h
+	"Point.h"
+	<graphics.h>
+
+1704308952 c:\users\zas\desktop\day 7&8\7.2\include\picture.h
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1704309889 source:c:\users\zas\desktop\day 7&8\7.2\src\circle.cpp
+	"Circle.h"
+
+1704309231 source:c:\users\zas\desktop\day 7&8\7.2\src\line.cpp
+	"Line.h"
+
+1704308930 source:c:\users\zas\desktop\day 7&8\7.2\src\picture.cpp
+	"Picture.h"
+
+1704292896 source:c:\users\zas\desktop\day 7&8\7.2\src\point.cpp
+	"Point.h"
+	<graphics.h>
+
+1704292896 source:c:\users\zas\desktop\day 7&8\7.2\src\rect.cpp
+	"Rect.h"
+

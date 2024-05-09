@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1645915548 source:g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 5\calculatorclasstemp\main.cpp
+	<iostream>
+	"calculator.h"
+	"calculator.cpp"
+
+1645915657 g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 5\calculatorclasstemp\calculator.h
+	<iostream>
+
+1645892799 source:g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 5\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645892799 g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 5\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645921508 source:g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645946105 g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.h
+	<iostream>
+
+1645946105 source:g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\main.cpp
+	<iostream>
+	"calculator.h"
+	"calculator.cpp"
+
+1645921508 g:\iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645921508 source:g:\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645946105 g:\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.h
+	<iostream>
+
+1645946105 source:g:\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\main.cpp
+	<iostream>
+	"calculator.h"
+	"calculator.cpp"
+
+1645921508 g:\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645921508 source:f:\g\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1645946105 f:\g\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.h
+	<iostream>
+
+1645946105 source:f:\g\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\main.cpp
+	<iostream>
+	"calculator.h"
+	"calculator.cpp"
+
+1645921508 f:\g\1-iti staff\c++ oop\c++ oop minia 2022 swd\day 7\calculatorclasstemp\calculator.cpp
+	<iostream>
+	"calculator.h"
+

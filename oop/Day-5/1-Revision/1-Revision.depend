@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703753789 source:d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\1-revision\main.cpp
+	<iostream>
+	"Employee.h"
+
+1703753250 source:d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\1-revision\src\employee.cpp
+	"Employee.h"
+
+1703753256 d:\iti\1-iti staff\c++ oop new\my content\day5\demo benisuif day 5\1-revision\include\employee.h
+	<iostream>
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1704278087 source:d:\pst coach\7.1\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1704267524 source:d:\pst coach\7.1\src\circle.cpp
+	"Circle.h"
+
+1704273852 d:\pst coach\7.1\include\circle.h
+	"Point.h"
+	<graphics.h>
+
+1704271618 d:\pst coach\7.1\include\point.h
+
+1704273078 source:d:\pst coach\7.1\src\line.cpp
+	"Line.h"
+
+1704273078 d:\pst coach\7.1\include\line.h
+	"Point.h"
+	<graphics.h>
+
+1704271619 source:d:\pst coach\7.1\src\point.cpp
+	"Point.h"
+	<graphics.h>
+
+1704273440 d:\pst coach\7.1\include\rect.h
+	"Point.h"
+	<graphics.h>
+
+1704273440 source:d:\pst coach\7.1\src\rect.cpp
+	"Rect.h"
+

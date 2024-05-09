@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1704307990 source:d:\pst coach\7.2\7.3\src\address.cpp
+	"Address.h"
+
+1704307990 d:\pst coach\7.2\7.3\include\address.h
+	<iostream>
+
+1704308010 source:d:\pst coach\7.2\7.3\main.cpp
+	<iostream>
+	"Address.h"
+	"Employee.h"
+
+1704308107 d:\pst coach\7.2\7.3\include\employee.h
+	"Address.h"
+
+1704308342 source:d:\pst coach\7.2\7.3\src\employee.cpp
+	"Employee.h"
+	<iostream>
+

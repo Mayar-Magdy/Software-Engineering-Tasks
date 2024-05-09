@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1704192764 source:d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\6-lasttestprojectfortemplate\main.cpp
+	<iostream>
+	"headerFileTestOnly.h"
+	"ClassTemplate.h"
+	"./src/ClassTemplate.cpp"
+
+1704192225 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\6-lasttestprojectfortemplate\headerfiletestonly.h
+	<iostream>
+
+1704192367 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\6-lasttestprojectfortemplate\include\classtemplate.h
+
+1704192439 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\6-lasttestprojectfortemplate\classtemplate.cpp
+	"ClassTemplate.h"
+	<iostream>
+
+1704192439 source:d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\6-lasttestprojectfortemplate\src\classtemplate.cpp
+	"ClassTemplate.h"
+	<iostream>
+
+1704192439 d:\iti\1-iti staff\c++ oop new\my content\day8\demos benisuif day 8\6-lasttestprojectfortemplate\src\classtemplate.cpp
+	"ClassTemplate.h"
+	<iostream>
+

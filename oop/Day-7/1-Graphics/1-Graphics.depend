@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704096553 source:d:\iti\1-iti staff\c++ oop new\my content\day7\demos benisuif day 7\1-graphics\main.cpp
+	<iostream>
+	<graphics.h>
+
+1704200146 source:d:\oop_iti\new folder\demos benisuif day 7\1-graphics\main.cpp
+	<iostream>
+	<graphics.h>
+
+1704191237 source:d:\oop_iti\new folder\demos benisuif day 7\1-graphics\include\test.cpp
+
