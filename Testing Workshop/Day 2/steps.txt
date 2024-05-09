@@ -1,0 +1,26 @@
+npm install --save-dev mocha 
+
+
+npm --> node package manager --> install nodejs 
+
+install
+
+--save-dev
+
+mocha
+
+1- install nodejs ---> https://nodejs.org/en 
+2- to make sure --> node --version 
+3- make folder 
+4- inside your folder --> open terminal --> npm init
+5- npm install --save-dev mocha 
+6- make new folder in your project --> test 
+7- to run your unit test using mocha --> in package.json --> 
+        "scripts":{
+            "test": "mocha"
+        }
+    then in your terminal --> npm test
+8- mocha --> run test --> npm test --> testing env 
+   chai --> more functions -->  npm install chai  (4.2.0)
+
+

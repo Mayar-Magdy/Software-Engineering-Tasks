@@ -1,0 +1,23 @@
+
+// unit test --> mocha 
+// npm install mocha
+
+// npm ---> node package manager --> install node 
+
+// install 
+
+// mocha 
+
+// node -v 
+
+1- create your folder 
+2- install node  --> https://nodejs.org/en
+3- open your terminal --> node -v 
+4- npm init 
+5- npm install mocha  
+6- create folder test
+7- in package.json --> "test":"mocha"
+8- in your terminal --> npm test 
+9- npm install chai 
+9- mocha --> run test 
+    chai --> more functions 
