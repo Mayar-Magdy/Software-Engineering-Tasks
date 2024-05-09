@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration Page</title>
+    <style>
+      body {
+        font-family: "Courier New", monospace;
+        background-color: #b88383;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style=" position: absolute;
+    top: 60px;
+    left: 100px;">
+    Regist now!</h1>
+    <form action="index.html" method="post">
+      <label for="userId" >User ID</label>
+      <input type="hidden" name="userId" />  <br>
+
+      <label for="lastName">Last Name:</label>
+      <input type="text" id="lastName" name="lastName" required />
+      <br>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required />
+      <br>
+
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required />
+      <br>
+
+      <label for="password">Repeat Password:</label>
+      <input type="password" id="password" name="password" required />
+
+      <br>
+
+
+      <label for="birthDate">Birth Date:</label>
+      <input type="date" id="birthDate" name="birthDate" tabindex="7" />
+      <br>
+
+
+      <label for="Picture">User Picture:</label>
+      <input
+      id="Picture"
+        type="file"
+        name="user_Picture"
+        accept="image/*"
+        tabindex="5"/>
+      <br>
+
+
+      <fieldset>
+        <legend>Gender:</legend>
+        <label class="label-gender"
+          ><input type="radio" name="gender" value="male" tabindex="9" /> Male</label
+        >
+        <br>
+
+        <label
+          ><input type="radio" name="gender" value="female" tabindex="10" />
+          Female</label
+        >
+        <br>
+      </fieldset>
+
+      <div>
+        <label for="faculty">Faculty:</label>
+        <select id="faculty" name="faculty" tabindex="11">
+          <option value="engineering">Engineering</option>
+          <option value="science">Science</option>
+          <option value="business">Business</option>
+        </select>
+      </div>
+      <br>
+
+
+      <fieldset>
+        <legend>Interests:</legend>
+        <label
+          ><input type="checkbox" name="interests" value="programming" tabindex="12" />
+          Programming</label
+        >
+        <label
+          ><input type="checkbox" name="interests" value="reading" tabindex="13" />
+          Reading</label
+        >
+        <label
+          ><input type="checkbox" name="interests" value="swimming" tabindex="14" />
+          Swimming</label
+        >
+      </fieldset>
+      <br>
+      <label for="about_you">About You:</label>
+      <textarea id="about_you" name="aboutYou" rows="4" tabindex="15"></textarea>
+<br>
+      <label>
+       <input
+       type="checkbox"
+       name="agreeToTerms"
+       required
+       tabindex="10"
+     />
+        <a href="terms_and_conditions.htm" target="_blank">I agree to the terms and conditions</a>
+      </label>
+      <br>
+      <br>
+
+        <button type="reset">Reset</button>
+        <button type="submit">Register</button>
+    </form>
+  </body>
+</html>

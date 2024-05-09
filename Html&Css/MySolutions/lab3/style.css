@@ -1,0 +1,72 @@
+*
+{
+    margin: 0;
+    font-family: 'Protest Revolution', sans-serif;
+
+}
+#header
+{
+    background-color: red;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+}
+.container
+{
+    display: flex;
+}
+#linksbar
+{
+background-color: gray;
+
+}
+#loginform
+{
+   border-style: dashed;
+   border-color: rgb(12, 39, 12);
+   padding: 5px;
+}
+#inp
+{
+    background-color: yellow;
+}
+h2{
+font-size: 20px;
+}
+#linksbar h2{
+    margin-top: 20px;
+}
+ul
+{
+    list-style-type: none;
+    margin: 10px;
+}
+ul li a{
+    background-color: rgba(250, 170, 196, 0.808);
+    color: black;
+}
+ul li 
+{
+    margin: 5px;
+}
+#content 
+{
+  background-color: rgb(255, 183, 207);
+  padding:20px;
+  
+
+}
+#content  h2,p{
+padding: 10px;}
+#titles
+{
+    padding-top: 10px;
+}
+#titles p
+{
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    display: inline;
+    padding: 3px;
+    
+}
