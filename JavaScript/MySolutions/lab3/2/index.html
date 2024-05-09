@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+</head>
+<script>
+  function myAlertKey(e) {
+    alert("Key code: " + e.key);
+  }
+  function myAlertMouse(e) {
+    alert("Mouse button: " + e.button);
+  }
+  var currClock; 
+  function startClock() {
+    alert("Clock Started");
+    //   setInterval(timeNow,1000)
+    currClock = setInterval(addSecond, 1000); 
+  }
+  //bulit-in clock
+  function timeNow() {
+    var dateNow = new Date();
+    var time = dateNow.toLocaleTimeString();
+    console.log(time);
+    document.getElementById("clock").innerText = time;
+  }
+
+  var dateNow = new Date();
+  var seconds = dateNow.getSeconds();
+  var minutes = dateNow.getMinutes();
+  var hours = dateNow.getHours();
+
+
+  function addSecond() {
+    // console.log(seconds, minutes, hours);  
+    seconds++;
+    if (seconds == 60) {
+      minutes++;
+      seconds = 0;
+    }
+    if (minutes == 60) {
+      hours++;
+      minutes = 0;
+    }
+
+    var sec = seconds < 10 ? "0" + seconds : seconds;
+    var min = minutes < 10 ? "0" + minutes : minutes;
+    var h = hours < 10 ? "0" + hours : hours;
+
+    document.getElementById("clock").innerText = h + ":" + min + ":" + sec;
+  }
+
+
+  addEventListener("keydown", function (e) {
+    if (e.altKey && e.key == "w") {
+      alert("Clock stopped");
+      clearInterval(currClock); 
+    }
+  });
+</script>
+<input type="text" onkeypress="myAlertKey(event)" onmousedown="myAlertMouse(event)"><br><br>
+<button onclick="startClock()">start clock</button>
+
+<div id="clock"></div>
+</body>
+
+</html>

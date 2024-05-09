@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+</head>
+<script>
+  function checkKey(e) {
+      var keyCode = e.keyCode;
+      // A-Z-az
+      if(keyCode != 8)  { // backspacce
+      if ( (keyCode < 65 || keyCode > 90) && (keyCode < 97 || keyCode > 122)) {
+        e.preventDefault();
+      }
+    }
+    }
+  </script>
+<body>
+  <form action="home.html" method="get">
+  <input type="text"  name="userName" placeholder="Enter your user name here" size=21 required  onkeydown="checkKey(event)"><br/><br>
+  <input type="password" name="pass"  size=21 required><br/><br>
+  <button type="submit">Login</button>
+
+  </form>
+</body>
+
+</html>

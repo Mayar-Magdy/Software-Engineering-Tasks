@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<head><style>
+  .gallery {
+  width: 600px;
+  height: 400px;
+  margin: auto;
+  }
+  
+  .gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  }
+  
+button {
+  position: absolute;
+  bottom: 250px;
+  padding: 10px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  background: rgba(246, 102, 119, 0.5);
+
+  }
+  </style>
+</head>
+
+<body>
+  <!--event.preventDefault because something wr going with me when i click on an img-->
+  <div class="gallery">
+    <img src="images/image12.jpg" onclick="event.preventDefault()">
+    <img src="images/image5.png" onclick="event.preventDefault()">
+    <img src="images/image7.png"onclick="event.preventDefault()">
+    <img src="images/image8.jpg"onclick="event.preventDefault()">
+    <img src="images/image9.jpg"onclick="event.preventDefault()">
+   <img src="images/image10.jpg"onclick="event.preventDefault()">
+   <img src="images/image11.jpg"onclick="event.preventDefault()">
+  <img src="images/image13.jpg"onclick="event.preventDefault()">
+  <img src="images/image14.jpg"onclick="event.preventDefault()">
+  <img src="images/image9.jpg"onclick="event.preventDefault()">
+  </div>
+  <div class="buttons">
+    <button id="play" style="left: 270px">Play</button>
+    <button id="stop"style="left: 340px">Stop</button>
+    <button id="prev"style="right: 340px">Prev</button>
+    <button id="next" style="right: 270px;">Next</button>
+  </div>
+<script src="script.js"></script>
+</body>
+
+</html>

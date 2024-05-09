@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+  <script>
+    function openAdv() {
+      setTimeout(ad, 3000); 
+      function ad () {
+        var adWindow = window.open("", "AdWindow", "width=500");
+        adWindow.document.write("<h1>Advertising Window</h1>");
+        adWindow.document.write("<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis nisl quis leo tincidunt sagittis. Fusce vitae nisi quis augue faucibus consequat. Morbi id lacus quis lorem malesuada lacinia. Vivamus vitae massa quis nisl aliquet ullamcorper. Donec quis nisl quis lectus commodo malesuada. Curabitur quis leo quis nisi tincidunt tincidunt. Nulla facilisi. Donec quis nisl quis lectus commodo malesuada.</p>");
+        adWindow.document.write("<p>Lorem quis leo quis nisi tincidunt tincidunt. Nulla facilisi. Donec quis nisl quis lectus commodo malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis nisl quis leo tincidunt sagittis. Fusce vitae nisi quis augue faucibus consequat. Morbi id lacus quis lorem malesuada lacinia. Vivamus vitae massa quis nisl aliquet ullamcorper.</p>");
+        adWindow.document.write("<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis nisl quis leo tincidunt sagittis. Fusce vitae nisi quis augue faucibus consequat. Morbi id lacus quis lorem malesuada lacinia. Vivamus vitae massa quis nisl aliquet ullamcorper. Donec quis nisl quis lectus commodo malesuada. Curabitur quis leo quis nisi tincidunt tincidunt. Nulla facilisi. Donec quis nisl quis lectus commodo malesuada.</p>");
+        adWindow.document.write("<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis nisl quis leo tincidunt sagittis. Fusce vitae nisi quis augue faucibus consequat. Morbi id lacus quis lorem malesuada lacinia. Vivamus vitae massa quis nisl aliquet ullamcorper. Donec quis nisl quis lectus commodo malesuada. Curabitur quis leo quis nisi tincidunt tincidunt. Nulla facilisi. Donec quis nisl quis lectus commodo malesuada.</p>");
+      }
+    }
+
+    function closeAdWindow() {
+        adWindow.close();
+    }
+  </script>
+</head>
+
+<body>
+  <a href="#" onclick="openAdv()">Open Advertising Window</a><br><br>
+  <!-- <a href="#" onclick="closeAdWindow();">Close Ads</a> -->
+  <button onclick="closeAdWindow()">Close Ads</button>
+</body>
+
+</html>

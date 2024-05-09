@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    p {
+  color: white;
+  font-family: 'Courier New', monospace;
+  font-size: 24px;
+  text-align: center;
+  background-color: rgb(93, 152, 230);
+  margin: 10px;
+  padding: 10px;
+}
+  </style>
+</head>
+<body>
+  <img id="img1" src="../resources/img.jpg"  width="200" height="200">
+  <img id="img2" src="../resources/img2.jpg" width="200" height="200">
+  <img id="img3" src="../resources/img3.jpg" width="200" height="200">
+  <p   id="score">Score: #</p>
+  <script>
+    var score = 0;
+
+    function increaseScore() {
+      ++score;
+      document.getElementById("score").innerHTML = "Score: " + score;
+      alert("Score: " + score);
+
+    }
+
+    function endGame() {
+      clearTimeout(timeout);
+      alert("Game Over.\n Your final score is: " + score);
+      document.getElementById("score").innerHTML = "Score: " + score;
+
+    }
+
+    var img1 = document.getElementById("img1");
+    var img2 = document.getElementById("img2");
+    var img3 = document.getElementById("img3");
+
+   
+    img1.addEventListener("click", increaseScore);
+    img2.addEventListener("click", increaseScore);
+    img3.addEventListener("click", increaseScore);
+
+    setTimeout(remove, 3000); 
+    function remove () {
+        img1.removeEventListener("click", increaseScore);
+        img2.removeEventListener("click", increaseScore);
+        img3.removeEventListener("click", increaseScore);
+        img1.addEventListener("click", endGame);
+        img2.addEventListener("click", endGame);
+        img3.addEventListener("click", endGame);
+      }
+  </script>
+   
+
+
+</body>
+
+</html>

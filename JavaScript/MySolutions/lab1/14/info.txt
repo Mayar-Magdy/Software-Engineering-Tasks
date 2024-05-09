@@ -1,0 +1,41 @@
+3-	Work on the mentioned self-study topics on the lecture slides:
+a.	What’s XSS (cross-site scripting)?
+b.	What are new features in ES6, with demo?
+c.	What’s TypeScript? And what are its new features?
+
+
+
+
+
+
+a. XSS (cross-site scripting) is a web security vulnerability that allows an attacker to inject malicious code into a web page that is viewed by other users. 
+The attacker can use XSS to steal sensitive information, hijack user sessions, or perform actions on behalf of the user.
+
+
+b. ES6 (ECMAScript 2015)  //ECMAScript 6 - ECMAScript 2015
+is a major update to the JavaScript language that introduces many new features and enhancements, such as:
+
+let and const keywords for block-scoped variables and constants
+arrow functions for concise and elegant function expressions
+classes, inheritance, and super keyword for object-oriented programming
+promises, generators, and async/await for asynchronous programming
+maps, sets, and weak maps for new data structures
+symbols, iterators, and for/of loop for new ways of working with data
+and many more!
+
+c. TypeScript is a superset of JavaScript that adds optional static typing to the language. TypeScript can help catch errors and bugs at compile time, improve code quality and readability, and enable powerful tooling and editor support. TypeScript can compile to plain JavaScript that runs on any browser or platform. TypeScript has many features that extend or improve upon JavaScript, such as:
+
+type annotations, type inference, and type checking for robust and reliable code
+interfaces, enums, generics, and tuples for advanced and expressive types
+decorators, mixins, and abstract classes for enhancing classes and objects
+namespaces, modules, and ambient declarations for organizing and importing code
+type guards, type aliases, and union and intersection types for flexible and dynamic types
+
+//    دعم TypeScript مكتبات JS ووثائق API
+    إنها مجموعة شاملة من JavaScript
+    يتم كتابتها اختياريا لغة البرمجة النصية
+    يمكن تحويل كود TypeScript إلى كود JavaScript عادي
+    تحسين هيكلة التعليمات البرمجية وتقنيات البرمجة الموجهة للكائنات
+    يسمح بدعم أفضل لأداة وقت التطوير
+    يمكنه توسيع اللغة إلى ما هو أبعد من أدوات الديكور القياسية، غير المتزامن/الانتظار
+
