@@ -32,6 +32,12 @@ Welcome to the Software Engineering Repository. Here you'll find a collection of
                 </a><br>
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/windos%26linux">Windows and Linux </a>
             </td>
+                 <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/communication_skills">
+                    <img src="https://www.cabem.com/wp-content/uploads/2022/02/soft-skills-1080x675.jpg" alt="soft skills" width="200" height="200"></img>
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/communication_skills">Soft skills</a>
+            </td>
         </tr>
                 <tr>
             <td align="center">
@@ -51,6 +57,12 @@ Welcome to the Software Engineering Repository. Here you'll find a collection of
                     <img src="https://miro.medium.com/v2/resize:fit:1358/1*4ZcW5tSdizlbtDQyVpRTuA.jpeg" alt="windows and linux" width="200" height="200">
                 </a><br>
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Data%20Structure"> Data Structures and Algorithms </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Software%20engineering">
+                    <img src="https://github.com/Mayar-Magdy/Software-engineering-Tasks/assets/82660168/7940976b-2808-4708-b4fe-4a6f86a5a4f6" alt="software engineering" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Software%20engineering"> Software engineering</a>
             </td>
         </tr>
     </tbody>
