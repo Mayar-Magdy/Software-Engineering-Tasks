@@ -65,6 +65,32 @@ Welcome to the Software Engineering Repository. Here you'll find a collection of
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Software%20engineering"> Software engineering</a>
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/ui%26ux-using%20figma">
+              <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/260427668/original/62ebf1e5b1003cb6061ea5dcc64db13d21bc901b/design-mobile-app-ui-ux.png" alt="c" width="200" height="200"></img>
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/ui%26ux-using%20figma">UI/UX</a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Html%26Css">
+                    <img src="https://picx.zhimg.com/v2-b8e455fd5240f018b4249abab5a664ee_ipico.jpg?source=172ae18b" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Html%26Css">HTML & CSS </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/JavaScript">
+                    <img src="https://thumbs.dreamstime.com/b/logotipo-do-javascript-136765881.jpg" alt="js" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/JavaScript">JavaScript</a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Database">
+                    <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/raw/master/logos/database-systems.png" alt="Database" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Database">Database</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
