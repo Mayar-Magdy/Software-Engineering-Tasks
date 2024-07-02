@@ -59,10 +59,10 @@ Welcome to the Software Engineering Repository. Here you'll find a collection of
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Data%20Structure"> Data Structures and Algorithms </a>
             </td>
              <td align="center">
-                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Software%20engineering">
-                    <img src="https://github.com/Mayar-Magdy/Software-engineering-Tasks/assets/82660168/7940976b-2808-4708-b4fe-4a6f86a5a4f6" alt="software engineering" width="200" height="200">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/presentations%20skills">
+                    <img src="https://woc.aises.org/sites/default/files/styles/image730x495/public/March2020-Professional-Illo-BLOGPOST-FNL.jpg?itok=xKX8buVr" alt="presentations skills" width="200" height="200">
                 </a><br>
-                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Software%20engineering"> Software engineering</a>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/presentations%20skills"> Presentations Skills</a>
             </td>
         </tr>
         <tr>
@@ -89,6 +89,32 @@ Welcome to the Software Engineering Repository. Here you'll find a collection of
                     <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/raw/master/logos/database-systems.png" alt="Database" width="200" height="200">
                 </a><br>
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Database">Database</a>
+            </td>
+        </tr>
+                <tr>
+            <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/MySQL">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHa691HLB5Obvv7ygL6koWYQw5ypRzNP8Z5Q&s" alt="c" width="200" height="200"></img>
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/MySQL">MySQL</a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/PHP">
+                    <img src="https://multaqaweb.com/wp-content/uploads/2024/06/php-vs-javascript-php-logo.png" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/PHP">PHP </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Testing%20Workshop">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgoOdmpxX53feHBPN1-Sald99mCzQad6SEQ&s" alt="js" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Testing%20Workshop">Testing Workshop</a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Wordpress">
+                    <img src="https://syria-tech.net/wp-content/uploads/2024/05/Wordpress-adv.jpg" alt="Database" width="200" height="200">
+                </a><br>
+                <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Wordpress">Wordpress</a>
             </td>
         </tr>
     </tbody>
