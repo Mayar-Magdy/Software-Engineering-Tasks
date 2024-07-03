@@ -4,7 +4,7 @@
 </a>
 
 
-Welcome to the Software Engineering Repository. Here you'll find a collection of my tasks, projects, and documentation supporting the field of software engineering.
+Here you'll find a collection of my tasks, projects, and documentation supporting the field of software engineering.
 
 
 <br><br>
