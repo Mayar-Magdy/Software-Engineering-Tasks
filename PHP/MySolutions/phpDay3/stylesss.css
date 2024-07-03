@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f9f9f9;
+    border-bottom: 2px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+nav a {
+    text-decoration: underline;
+    color: black;
+}
+
+nav a:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+nav .admin {
+    display: flex;
+    align-items: center;
+}
+
+nav .admin img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+}
+
+form input[type="text"], form input[type="email"], form input[type="password"], form select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+form button[type="submit"], form button[type="reset"] {
+    background-color: #a5465e;
+    color: rgb(218, 227, 226);
+     margin: 8px 0;
+    display: inline-block;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+form button[type="submit"]:hover, form button[type="reset"]:hover {
+    opacity: 0.8;
+}
+h2{
+   padding: 10px;
+    margin: 30px;
+}
+
+span{
+    color: rgb(195, 48, 48);
+}

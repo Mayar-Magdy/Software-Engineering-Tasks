@@ -1,0 +1,27 @@
+Array
+(
+    [Name] => Mayar
+    [Email] => Mayar@gmail.com
+    [Password] => 01234567
+    [Room No.] => Application2
+    [Ext.] => 5
+    [Profile Picture] => mayar.jpg
+)
+Array
+(
+    [Name] => Mai
+    [Email] => Mai_Magdy@gmail.com
+    [Password] => 12345678
+    [Room No.] => Application1
+    [Ext.] => 3
+    [Profile Picture] => mai.jpg
+)
+Array
+(
+    [Name] => Ali
+    [Email] => Ali@gmail.com
+    [Password] => 12345678
+    [Room No.] => Cloud
+    [Ext.] => 4
+    [Profile Picture] => ali.jpg
+)
