@@ -1,10 +1,10 @@
 # Software-Engineering-Tasks
-<a href="#">
-    <img align="right" width="160" src="https://github.com/Mayar-Magdy/Software-engineering-Tasks/assets/82660168/aa5b4692-dc8f-4d4f-9dcc-0049a48b6e11" alt="SW">
+<a href="#"> 
+    <img align="right" width="160" src="https://github.com/Mayar-Magdy/Software-Engineering-Tasks/assets/82660168/aa5b4692-dc8f-4d4f-9dcc-0049a48b6e11" alt="SW">
 </a>
 
 
-Here you'll find a collection of my tasks, projects, and documentation supporting the field of software engineering.
+Here you'll find a collection of my tasks, projects, and documentation supporting the field of software engineering .
 
 
 <br><br>
