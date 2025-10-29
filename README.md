@@ -100,7 +100,7 @@ Here you'll find a collection of my tasks, projects, and documentation supportin
             </td>
             <td align="center">
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/PHP">
-                    <img src="https://multaqaweb.com/wp-content/uploads/2024/06/php-vs-javascript-php-logo.png" width="200" height="200">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwXHVnO_xeXxHL6T8Rn0827pR-g7DeEP-dNA&s" width="200" height="200">
                 </a><br>
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/PHP">PHP </a>
             </td>
@@ -112,7 +112,7 @@ Here you'll find a collection of my tasks, projects, and documentation supportin
             </td>
              <td align="center">
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Wordpress">
-                    <img src="https://syria-tech.net/wp-content/uploads/2024/05/Wordpress-adv.jpg" alt="Database" width="200" height="200">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOuBSiDAr9riMri_D0ueNIneiTyoQQ_2CSQ&s" alt="Database" width="200" height="200">
                 </a><br>
                 <a href="https://github.com/Mayar-Magdy/Software-engineering-Tasks/tree/main/Wordpress">Wordpress</a>
             </td>
